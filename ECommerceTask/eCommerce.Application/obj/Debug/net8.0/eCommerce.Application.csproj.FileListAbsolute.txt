@@ -1,0 +1,15 @@
+D:\Task\ECommerceTask-master\eCommerce.Application\bin\Debug\net8.0\eCommerce.Application.deps.json
+D:\Task\ECommerceTask-master\eCommerce.Application\bin\Debug\net8.0\eCommerce.Application.dll
+D:\Task\ECommerceTask-master\eCommerce.Application\bin\Debug\net8.0\eCommerce.Application.pdb
+D:\Task\ECommerceTask-master\eCommerce.Application\bin\Debug\net8.0\eCommerce.Domain.dll
+D:\Task\ECommerceTask-master\eCommerce.Application\bin\Debug\net8.0\eCommerce.Domain.pdb
+D:\Task\ECommerceTask-master\eCommerce.Application\obj\Debug\net8.0\eCommerce.Application.csproj.AssemblyReference.cache
+D:\Task\ECommerceTask-master\eCommerce.Application\obj\Debug\net8.0\eCommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Task\ECommerceTask-master\eCommerce.Application\obj\Debug\net8.0\eCommerce.Application.AssemblyInfoInputs.cache
+D:\Task\ECommerceTask-master\eCommerce.Application\obj\Debug\net8.0\eCommerce.Application.AssemblyInfo.cs
+D:\Task\ECommerceTask-master\eCommerce.Application\obj\Debug\net8.0\eCommerce.Application.csproj.CoreCompileInputs.cache
+D:\Task\ECommerceTask-master\eCommerce.Application\obj\Debug\net8.0\eCommerc.FF2FEB98.Up2Date
+D:\Task\ECommerceTask-master\eCommerce.Application\obj\Debug\net8.0\eCommerce.Application.dll
+D:\Task\ECommerceTask-master\eCommerce.Application\obj\Debug\net8.0\refint\eCommerce.Application.dll
+D:\Task\ECommerceTask-master\eCommerce.Application\obj\Debug\net8.0\eCommerce.Application.pdb
+D:\Task\ECommerceTask-master\eCommerce.Application\obj\Debug\net8.0\ref\eCommerce.Application.dll
